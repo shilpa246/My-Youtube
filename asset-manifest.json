@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//shilpa246.github.io/My-Youtube/static/css/main.e1eb206d.css",
+    "main.js": "/https//shilpa246.github.io/My-Youtube/static/js/main.ff4a7908.js",
+    "static/js/787.9733b43f.chunk.js": "/https//shilpa246.github.io/My-Youtube/static/js/787.9733b43f.chunk.js",
+    "index.html": "/https//shilpa246.github.io/My-Youtube/index.html",
+    "main.e1eb206d.css.map": "/https//shilpa246.github.io/My-Youtube/static/css/main.e1eb206d.css.map",
+    "main.ff4a7908.js.map": "/https//shilpa246.github.io/My-Youtube/static/js/main.ff4a7908.js.map",
+    "787.9733b43f.chunk.js.map": "/https//shilpa246.github.io/My-Youtube/static/js/787.9733b43f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1eb206d.css",
+    "static/js/main.ff4a7908.js"
+  ]
+}
