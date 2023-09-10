@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https//shilpa246.github.io/My-Youtube/static/css/main.e1eb206d.css",
-    "main.js": "/https//shilpa246.github.io/My-Youtube/static/js/main.b63d810d.js",
-    "static/js/787.9733b43f.chunk.js": "/https//shilpa246.github.io/My-Youtube/static/js/787.9733b43f.chunk.js",
-    "index.html": "/https//shilpa246.github.io/My-Youtube/index.html",
-    "main.e1eb206d.css.map": "/https//shilpa246.github.io/My-Youtube/static/css/main.e1eb206d.css.map",
-    "main.b63d810d.js.map": "/https//shilpa246.github.io/My-Youtube/static/js/main.b63d810d.js.map",
-    "787.9733b43f.chunk.js.map": "/https//shilpa246.github.io/My-Youtube/static/js/787.9733b43f.chunk.js.map"
+    "main.css": "/My-Youtube/static/css/main.e1eb206d.css",
+    "main.js": "/My-Youtube/static/js/main.ac2c1bab.js",
+    "static/js/787.9733b43f.chunk.js": "/My-Youtube/static/js/787.9733b43f.chunk.js",
+    "index.html": "/My-Youtube/index.html",
+    "main.e1eb206d.css.map": "/My-Youtube/static/css/main.e1eb206d.css.map",
+    "main.ac2c1bab.js.map": "/My-Youtube/static/js/main.ac2c1bab.js.map",
+    "787.9733b43f.chunk.js.map": "/My-Youtube/static/js/787.9733b43f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e1eb206d.css",
-    "static/js/main.b63d810d.js"
+    "static/js/main.ac2c1bab.js"
   ]
 }
